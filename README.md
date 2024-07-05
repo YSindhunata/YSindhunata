@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @YSindhunata
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning c++ and c#
-- 💞️ I’m looking to collaborate on ...
+Name: Yohanes Sindhunata
+NIM: 22.11.4708
 - 📫 How to reach me ysindhunata@gmail.com
 
 <!---
