@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @YSindhunata
-Name: Yohanes Sindhunata
-NIM: 22.11.4708
 - 📫 How to reach me ysindhunata@gmail.com
 
 <!---
